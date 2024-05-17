@@ -12,3 +12,4 @@
 - [ ] Projects
 - [ ] Contact Info
 - [ ] Dev setup
+- [ ] Blog migration
