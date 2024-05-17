@@ -1,8 +1,10 @@
-## wasobi.dev
+## wasobi.github.io
 
-[EN] Thanks for stopping by. Here is everything under the hood of my personal website. Feel free to use what I have done as inspiration or a springboard if you are having trouble getting started. Happy coding!
+[EN] Thanks for stopping by. Here is everything under the hood of my website. Feel free to use my work as inspiration or a springboard if you need help getting started. Happy coding!
 
-### TODO
+[ES] Bienvenida y gracías por venir. Ya tienes todo que necesitáis con respeto al fondo del página web. Usad todo lo que tengo tranquilamente si deseas alguna fuente de inspiración o en cualquier modo que prefieráis.
+
+### Up Next...
 - [ ] Landing page
 - [ ] About Section
 - [ ] Resume
@@ -10,5 +12,3 @@
 - [ ] Projects
 - [ ] Contact Info
 - [ ] Dev setup
-
-[ES] Bienvenida y gracías por venir. Ya tienes todo que necesitáis con respeto al fondo del página web. Usad todo lo que tengo tranquilamente si deseas alguna fuente de inspiración o en cualquier modo que prefieráis.
